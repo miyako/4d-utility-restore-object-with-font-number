@@ -46,6 +46,8 @@ If (Form event=On Load) | (Form event=On Header) | (Form event=On Printing Detai
 End if 
 ```
 
+または
+
 ```
 If (Form event=On Load) | (Form event=On Header) | (Form event=On Printing Detail) | (Form event=On Printing Break) | (Form event=On Printing Footer)
 	OBJECT SET FONT(*;"obj1";"ＭＳ Ｐゴシック")

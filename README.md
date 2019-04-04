@@ -27,6 +27,8 @@ v17コンポーネントです。
 
 2. 32ビット版の4Dでホストデータベースを開きます。
 
-問題のあるオブジェクト（32ビット版）
+問題のあるオブジェクト
 
-<img width="310" alt="スクリーンショット 2019-04-04 14 59 30" src="https://user-images.githubusercontent.com/1725068/55533068-07392680-56eb-11e9-8093-5e65bcb2dd35.png">
+<img width="290" alt="スクリーンショット 2019-04-04 15 20 00" src="https://user-images.githubusercontent.com/1725068/55533702-233dc780-56ed-11e9-8301-f7787fdb8bad.png">
+
+

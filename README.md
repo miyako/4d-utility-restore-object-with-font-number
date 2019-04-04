@@ -45,3 +45,14 @@ If (Form event=On Load) | (Form event=On Header) | (Form event=On Printing Detai
 	OBJECT SET FONT(*;"Radio Button";"MS PGothic")
 End if 
 ```
+
+```
+If (Form event=On Load) | (Form event=On Header) | (Form event=On Printing Detail) | (Form event=On Printing Break) | (Form event=On Printing Footer)
+	OBJECT SET FONT(*;"obj1";"ＭＳ Ｐゴシック")
+	OBJECT SET FONT(*;"obj2";"ＭＳ Ｐゴシック")
+	OBJECT SET FONT(*;"obj3";"ＭＳ Ｐゴシック")
+End if 
+```
+
+できれば，データベースを作成したのと同じプラットフォームで実行してください。
+

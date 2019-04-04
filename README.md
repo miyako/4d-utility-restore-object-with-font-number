@@ -31,4 +31,6 @@ v17コンポーネントです。
 
 <img width="290" alt="スクリーンショット 2019-04-04 15 20 00" src="https://user-images.githubusercontent.com/1725068/55533702-233dc780-56ed-11e9-8301-f7787fdb8bad.png">
 
+3. 共有メソッドの``restore_object_with_font_number``を実行します。
 
+<img width="323" alt="スクリーンショット 2019-04-04 15 21 24" src="https://user-images.githubusercontent.com/1725068/55533768-52eccf80-56ed-11e9-8f47-b462ac4ea3cd.png">
